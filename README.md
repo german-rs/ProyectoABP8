@@ -1,5 +1,12 @@
 # 📊 Informe de Desempeño Comercial Interactivo
-### Evaluación del Módulo #8 — Fundamentos de Business Intelligence | Alkemy
+### Evaluación del Módulo #8 — Fundamentos de Business Intelligence
+
+---
+## 👤 Información del Estudiante
+
+- **Nombre:** Germán Riveros Sepúlveda  
+- **Curso:** RTD-25-01-01-0002-1  
+- **Jornada:** Vespertina  
 
 ---
 
